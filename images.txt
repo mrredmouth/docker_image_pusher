@@ -5,3 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 corentinth/it-tools:latest
+redis:7.2.3
+rustfs/rustfs:latest
+xuxueli/xxl-job-admin:3.4.2
+mysql:8.4.13
